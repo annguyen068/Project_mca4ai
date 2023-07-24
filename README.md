@@ -16,6 +16,7 @@ Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
 Danh sách học sinh|Nguyễn Đức Ân|23/07/23
 Phân tích điểm thi|Nguyễn Đức Ân|23/07/23
+Cluster|Nguyễn Đức Ân|23/07/23
 Regression|Nguyễn Đức Ân|23/07/23
 
 
